@@ -3,7 +3,7 @@
 **Senior Software Engineer based in Sharjah, UAE.** I build secure, high-scale business systems with C#, .NET 10, Blazor and SQL Server, mostly for education, finance and enterprise.
 
 - :briefcase: 7+ years at Orison Software Specialists, building school-management and enterprise platforms
-- :busts_in_silhouette: Guide 20 developers on Blazor delivery: architecture, standards and code reviews
+- :busts_in_silhouette: Guide junior developers on Blazor delivery: architecture, standards and code reviews
 - :lock: Leading Microsoft Entra ID single sign-on for a legacy ASP.NET WebForms platform, with a dual-auth .NET 10 API
 - :card_file_box: Design data access across 100+ SQL Server databases from one codebase
 - :globe_with_meridians: Portfolio and case studies: **[roshankm.github.io](https://roshankm.github.io)**
