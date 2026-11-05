@@ -1,11 +1,14 @@
 ### Hi, I'm Roshan :wave:
 
-**Senior Software Engineer based in Sharjah, UAE.** I build secure, high-scale business systems with C#, .NET 10, Blazor and SQL Server, mostly for education, finance and enterprise.
+**Senior Software Engineer based in Sharjah, UAE.** I build secure, high-scale business systems with C#, .NET 10, Blazor and SQL Server, and have grown with the platform from .NET Core 2.1 to .NET 10.
+
+**Domains:** EdTech · Finance & Accounting · Logistics · E-commerce · CRM
 
 - :briefcase: 7+ years at Orison Software Specialists, building school-management and enterprise platforms
-- :busts_in_silhouette: Guide junior developers on Blazor delivery: architecture, standards and code reviews
+- :busts_in_silhouette: Lead Blazor delivery for the development team: architecture, standards, code reviews and mentoring
 - :lock: Leading Microsoft Entra ID single sign-on for a legacy ASP.NET WebForms platform, with a dual-auth .NET 10 API
 - :card_file_box: Design data access across 100+ SQL Server databases from one codebase
+- :hammer_and_wrench: Built finance, logistics, CRM, e-commerce and school MIS products end to end, several from scratch
 - :globe_with_meridians: Portfolio and case studies: **[roshankm.github.io](https://roshankm.github.io)**
 
 ### Tech stack
@@ -24,12 +27,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="40" height="40">
 </p>
 
-- **Backend:** C#, .NET 10, ASP.NET Core Web API, Entity Framework Core, LINQ
-- **Identity:** Microsoft Entra ID SSO, OWIN, JWT, role-based authorization
-- **Data:** SQL Server, T-SQL, schema design, indexing, query tuning
-- **Frontend:** Blazor WebAssembly and Server, JavaScript, Syncfusion, DevExpress
-- **Platform:** Azure, AWS, Azure DevOps, IIS, Git
+- **Backend:** C#, .NET 10, ASP.NET Core Web API, REST, Entity Framework Core, Dapper, LINQ
+- **Identity:** Microsoft Entra ID SSO, OAuth 2.0 / OpenID Connect, OWIN, JWT, role-based authorization
+- **Data:** SQL Server, T-SQL, schema design, indexing, query tuning, multi-database architecture
+- **Frontend:** Blazor WebAssembly and Server, Razor, JavaScript, jQuery, responsive UI, Syncfusion, DevExpress
+- **Platform:** Azure, AWS, Azure DevOps, IIS, Git, PowerShell
 - **Reporting:** SSRS, Bold Reports, Crystal Reports
+- **Also familiar with:** ASP.NET MVC, Flutter, Python, Adobe XD
 
 ### Selected work
 
@@ -39,6 +43,9 @@
 | **Teachers Portal** | Blazor WebAssembly + .NET 10 Web API dashboard built for large-scale concurrent use |
 | **Multi-database platform** | One codebase serving 100+ branch and customer SQL Server databases |
 | **Schema audit** | Added foreign keys, FK indexes, uniqueness and concurrency controls to core tables |
+| **Financial & Accounting Software** | Delivered for several clients, with full accounts integration |
+| **Logistics & CRM** | Built from scratch: shipment tracking linked to accounts, and service-job scheduling |
+| **E-commerce Portal** | Admin and customer sides, cart and payment-gateway checkout |
 
 Full write-ups: [roshankm.github.io/#work](https://roshankm.github.io/#work)
 
