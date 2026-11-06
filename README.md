@@ -14,17 +14,17 @@
 ### Tech stack
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/blazor/blazor-original.svg" alt="Blazor" title="Blazor" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" title="Azure DevOps" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/blazor/blazor-original.svg" alt="Blazor" title="Blazor" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" title="Azure DevOps" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="40" height="40">
 </p>
 
 - **Backend:** C#, .NET 10, ASP.NET Core Web API, REST, Entity Framework Core, Dapper, LINQ
@@ -34,6 +34,18 @@
 - **Platform:** Azure, AWS, Azure DevOps, IIS, Git, PowerShell
 - **Reporting:** SSRS, Bold Reports, Crystal Reports
 - **Also familiar with:** ASP.NET MVC, Flutter, Python, Adobe XD
+
+### Featured open-source project
+
+**[ParentPortal](https://github.com/Roshankm/ParentPortal)**: a multi-tenant school–parent communication platform built with .NET 10, Blazor, Minimal APIs, EF Core and SignalR.
+
+- Clean Architecture with a dependency-free domain model and [architecture decision records](https://github.com/Roshankm/ParentPortal/tree/main/docs/adr)
+- Tenant isolation enforced by EF Core query filters and proven by integration tests
+- Microsoft Entra ID auth, with a demo mode so it runs with a single `dotnet run`
+- Real-time announcements over SignalR, plus a background reminder job
+- Unit and integration tests in CI on every push
+
+[![CI](https://github.com/Roshankm/ParentPortal/actions/workflows/ci.yml/badge.svg)](https://github.com/Roshankm/ParentPortal/actions/workflows/ci.yml)
 
 ### Selected work
 
